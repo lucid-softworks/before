@@ -1,6 +1,6 @@
 {
   "name": "@lucid-softworks/before",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Limit a function to a maximum number of invocations.",
   "keywords": [
     "before",
